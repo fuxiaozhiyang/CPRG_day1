@@ -1,8 +1,10 @@
 header {
+  .heading-brown{
   background-color: beige;
   color: burlywood;
   padding: 12px;
   text-align: center;
+}
 }
 
 h1{
