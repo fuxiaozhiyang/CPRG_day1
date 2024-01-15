@@ -9,3 +9,8 @@ h1{
   background-color: beige;
   color: burlywood;
 }
+
+section{
+  margin: 12px;
+  padding: 8px;
+}
